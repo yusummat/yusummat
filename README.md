@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yusummat
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋
+I’m YU @yusmmat. I'm focused on Windows device management via Microsoft Intune. I’m working on Windows Autopatch.
+
+## Repository
+1. Coming soon✨✨✨
 
 <!---
 yusummat/yusummat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
