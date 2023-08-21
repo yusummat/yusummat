@@ -1,5 +1,5 @@
 # Hi there 👋
-I’m YU @yusmmat. I'm focused on Windows device management via Microsoft Intune. I’m working on Windows Autopatch.
+I’m YU @yusummat. I'm focused on Windows device management via Microsoft Intune. I’m working on Windows Autopatch.
 
 ## Repository
 1. Coming soon✨✨✨
