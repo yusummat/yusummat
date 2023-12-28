@@ -17,7 +17,7 @@ Most of the contents in this page is cited from Microsoft Learn though, please n
 |8 |Main/UpdateManagement/[FeatureUpdate.md](https://github.com/yusummat/yusummat/blob/main/UpdateManagement/FeatureUpdate.md)| Providing information about Window Feature update with Windows Autopatch |
 |9 |Main/UpdateManagement/[Microsoft365Apps.md](https://github.com/yusummat/yusummat/blob/main/UpdateManagement/Microsoft365Apps.md)| Providing information about M365 Apps update with Windows Autopatch |
 |10 |Main/Report/[WindowsQualityUpdateManagementReport.md](https://github.com/yusummat/yusummat/blob/main/Report/WindowsQualityUpdateReport.md)| Providing information about Quality Update Report |
-|11 |Main/Report/[WindowsFeatureUpdateManagementReport.md](https://github.com/yusummat/yusummat/blob/main/README.md)| ✨Coming soon✨ |
+|11 |Main/Report/[WindowsFeatureUpdateManagementReport.md](https://github.com/yusummat/yusummat/blob/main/Report/WindowsFeatureUpdateReport.md)| ✨New✨ Providing information about Feature Update Report|
 
 # News and Topics.
 | # | Folder | About |
