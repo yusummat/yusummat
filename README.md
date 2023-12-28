@@ -15,9 +15,9 @@ Most of the contents in this page is cited from Microsoft Learn though, please n
 |6 |Main/Setup/[CustomAutopatchGroupCreation.md](https://github.com/yusummat/yusummat/blob/main/SetUp/CustomAutopatchGroupCreation.md) | How to prepare Custom Autopatch Groups? |
 |7 |Main/UpdateManagement/[QualityUpdate.md](https://github.com/yusummat/yusummat/blob/main/UpdateManagement/QualityUpdate.md) | Providing information about Windows Quality update with Windows Autopatch |
 |8 |Main/UpdateManagement/[FeatureUpdate.md](https://github.com/yusummat/yusummat/blob/main/UpdateManagement/FeatureUpdate.md)| Providing information about Window Feature update with Windows Autopatch |
-|9 |Main/UpdateManagement/[M365Apps.md](https://github.com/yusummat/yusummat/blob/main/UpdateManagement/M365Apps.md)| Providing information about M365 Apps update with Windows Autopatch |
-|10 |Main/Report/[WindowsUpdateManagementReport.md](https://github.com/yusummat/yusummat/blob/main/Report/FeatureUpdate.md)| Providing information about M365 Apps update with Windows Autopatch |
-|11 |Main/Report/[WindowsUpdateManagementReport.md](https://github.com/yusummat/yusummat/blob/main/README.md)| ✨Coming soon✨ |
+|9 |Main/UpdateManagement/[Microsoft365Apps.md](https://github.com/yusummat/yusummat/blob/main/UpdateManagement/Microsoft365Apps.md)| Providing information about M365 Apps update with Windows Autopatch |
+|10 |Main/Report/[WindowsQualityUpdateManagementReport.md](https://github.com/yusummat/yusummat/blob/main/Report/WindowsQualityUpdateReport.md)| Providing information about Quality Update Report |
+|11 |Main/Report/[WindowsFeatureUpdateManagementReport.md](https://github.com/yusummat/yusummat/blob/main/README.md)| ✨Coming soon✨ |
 
 <!---
 yusummat/yusummat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
