@@ -22,7 +22,7 @@ Most of the contents in this page is cited from Microsoft Learn though, please n
 # News and Topics.
 | # | Folder | About |
 |:---|:---|:---|
-|1 | [Ignite 2023] (https://github.com/yusummat/yusummat/tree/main/Topics/Ignite2023.md)| Update from Ignite 2023 |
+|1 | [Ignite 2023](https://github.com/yusummat/yusummat/tree/main/Topics/Ignite2023.md)| Update from Ignite 2023 |
 
 <!---
 yusummat/yusummat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
