@@ -19,6 +19,11 @@ Most of the contents in this page is cited from Microsoft Learn though, please n
 |10 |Main/Report/[WindowsQualityUpdateManagementReport.md](https://github.com/yusummat/yusummat/blob/main/Report/WindowsQualityUpdateReport.md)| Providing information about Quality Update Report |
 |11 |Main/Report/[WindowsFeatureUpdateManagementReport.md](https://github.com/yusummat/yusummat/blob/main/README.md)| ✨Coming soon✨ |
 
+# News and Topics.
+| # | Folder | About |
+|:---|:---|:---|
+|1 | [Ignite 2023] (https://github.com/yusummat/yusummat/tree/main/Topics/Ignite2023.md)| Update from Ignite 2023 |
+
 <!---
 yusummat/yusummat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
