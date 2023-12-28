@@ -3,7 +3,9 @@ I’m YUKIKO. I'm focused on Windows device management via Microsoft Intune. I�
 Most of the contents in this page is cited from Microsoft Learn though, please note that the views and opinions expressed herein do not necessarily reflect the views of company.
 
 ## Repository
-1. Introduction
+1. Introduction : Windows Autopatch introduction & learning resources
+2. Setup : How to Device Enrollment
+3. Update Management : Manage Windows Quality update & Windows Feature update
 
 <!---
 yusummat/yusummat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
