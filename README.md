@@ -22,7 +22,7 @@ Most of the contents in this page is cited from Microsoft Learn though, please n
 # Useful features and tools in operation phase.
 | # | Folder | About |
 |:---|:---|:---|
-|1 |Main/Labo/[ConflictingConfigurations.md](https://github.com/yusummat/yusummat/blob/main/Labo/ConflictingConfigurations.md) | Try sample script for detecting and remediating conflicting configs. |
+|1 |Main/Labo/[ConflictingConfiguration.md](https://github.com/yusummat/yusummat/blob/main/Labo/ConflictingConfiguration.md) | Try sample script for detecting and remediating conflicting configs. |
 
 # News and Topics.
 | # | Folder | About |
