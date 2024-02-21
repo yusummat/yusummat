@@ -22,4 +22,6 @@ Let's detect and remediate it by following the guidance in [the official documen
 2) Prepare Powershell scripts for detect and remediate by following [the guidance](https://learn.microsoft.com/en-us/windows/deployment/windows-autopatch/references/windows-autopatch-conflicting-configurations#intune-remediation).
 3) Upload and assign the powershell scripts to the target device, and then schedule it.
    ![image](https://github.com/yusummat/yusummat/assets/142761448/978e4465-bb4f-4640-a8fe-66ecc7298592)
+4) The script will be executed at the scheduled time.
+![image](https://github.com/yusummat/yusummat/assets/142761448/e5c146b3-68d2-414d-ac85-db6739453536)
 
