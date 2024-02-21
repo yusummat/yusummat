@@ -25,3 +25,4 @@ Let's detect and remediate it by following the guidance in [the official documen
 4) The script will be executed at the scheduled time.
 ![image](https://github.com/yusummat/yusummat/assets/142761448/e5c146b3-68d2-414d-ac85-db6739453536)
 
+![image](https://github.com/yusummat/yusummat/assets/142761448/4ad63a76-d73b-4e88-b79f-9cf0c1f897f7)
